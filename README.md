@@ -1,6 +1,6 @@
 # 🎥 Cinematic Insights 🍿
 
-### 🎟️ Description
+## 🎟️ Description
 Based on a combination of an OMDB dataframe and OMDB API we are trying to identify the most commercially successful genre and optimal runtime for a new movie to be released in the near future, given current audience preferences and market trends. After the elaboration of th business question we came up with the 3 following hypothesis, that will be accepted or rejected, after our analysis:
 
 ### 🌟  H1: Genre Popularity
@@ -12,7 +12,7 @@ Based on a combination of an OMDB dataframe and OMDB API we are trying to identi
 ### 🎞️  H3: Runtime Preference
 ‘Movies with a runtime between 120 and 150 minutes tend to perform better commercially'
 
-### 📺 Prerequisites
+## 📺 Prerequisites
 - Python Project
 - OMDB API link- https://www.omdbapi.com/<br>
 - Dataset link- https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data
@@ -20,7 +20,7 @@ Based on a combination of an OMDB dataframe and OMDB API we are trying to identi
 - Trello link- https://trello.com/b/Hj5kYts9/project-cinematic-insights
 - Presentation link - https://docs.google.com/presentation/d/1WdLSx_zLLusT_XJDlD7v4rlzxpq8NBZckTWrPlDwY2I/edit#slide=id.p
 
-### 📽️ Data Cleaning and Wrangling
+## 📽️ Data Cleaning and Wrangling
 ### 📝 Description how dataset is cleaned
 - Separation of Movies and TV Shows: We developed a solution to differentiate between movies and TV shows, which were mixed in the dataset.
 - Handling Duplicates: We merged duplicate rows from the API dataset and a Kaggle dataset.
@@ -29,7 +29,7 @@ Based on a combination of an OMDB dataframe and OMDB API we are trying to identi
 - Column Reordering: We reorganized columns to improve readability and better align with our hypothesis.
 - Handling Missing Data: Rows with missing or empty 'BoxOffice' values were removed.
 
-### 🔥 Project Structure
+## 🔥 Project Structure
 This is a python project has below mentioned files.
 - main.ipnyb - Main file is the main file which calls the functions defined in functions.py file and returns the clean data file in csv format.
 - functions.py - This file contains all the definations(functions) and the loagic defined.
