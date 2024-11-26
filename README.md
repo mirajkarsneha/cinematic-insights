@@ -14,11 +14,11 @@ Based on a combination of an OMDB dataframe and OMDB API we are trying to identi
 
 ## 📺 Prerequisites
 - Python Project
-- OMDB API link- https://www.omdbapi.com/<br>
-- Dataset link- https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data
-- Git Hub link- https://github.com/mirajkarsneha/cinematic-insights
-- Trello link- https://trello.com/b/Hj5kYts9/project-cinematic-insights
-- Presentation link - https://docs.google.com/presentation/d/1WdLSx_zLLusT_XJDlD7v4rlzxpq8NBZckTWrPlDwY2I/edit#slide=id.p
+- [OMDB API link](https://www.omdbapi.com/)<br>
+- [Dataset link](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data)
+- [Git Hub link](https://github.com/mirajkarsneha/cinematic-insights)
+- [Trello link](https://trello.com/b/Hj5kYts9/project-cinematic-insights)
+- [Presentation link](https://docs.google.com/presentation/d/1WdLSx_zLLusT_XJDlD7v4rlzxpq8NBZckTWrPlDwY2I/edit#slide=id.p)
 
 ## 📽️ Data Cleaning and Wrangling
 ### 📝 Description how dataset is cleaned
