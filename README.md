@@ -19,6 +19,7 @@ Based on a combination of an OMDB dataframe and OMDB API we are trying to identi
 - [Git Hub link](https://github.com/mirajkarsneha/cinematic-insights)
 - [Trello link](https://trello.com/b/Hj5kYts9/project-cinematic-insights)
 - [Presentation link](https://docs.google.com/presentation/d/1WdLSx_zLLusT_XJDlD7v4rlzxpq8NBZckTWrPlDwY2I/edit#slide=id.p)
+- [Tableau Visualization link](https://public.tableau.com/app/profile/marc.bouche/viz/IMDbCinematicInsightsActorsRuntimeGenreAnalysis/Story1)
 
 ## 📽️ Data Cleaning and Wrangling
 ### 📝 Description how dataset is cleaned
